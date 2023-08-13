@@ -1,4 +1,4 @@
-using PlatformServices.Data;
+using PlatformService.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

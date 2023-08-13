@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace PlatformServices.Dtos
+namespace PlatformService.Dtos
 {
     public class PlatformCreateDto
     {
